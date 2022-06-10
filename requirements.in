@@ -1,0 +1,10 @@
+django>3.2.12
+django-extensions
+pip-tools
+djangorestframework
+requests
+xmltodict
+IPython
+django-filter
+python-dotenv
+black
